@@ -1,0 +1,10 @@
+.selected {
+    background-color: royalblue;
+}
+
+.block {
+    border: solid 1px black;
+    display: inline-block;
+    min-width: 100;
+    min-height: 100;
+}
